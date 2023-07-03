@@ -1,0 +1,16 @@
+body {
+    background-color: gray;
+}
+
+.meuNome, .descricao {
+    background-color:;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+em {
+    color: aqua;
+}
+
+.habilidade1 {
+    font-size: 30px;
+}
